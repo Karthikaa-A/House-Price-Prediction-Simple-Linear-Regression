@@ -7,12 +7,6 @@ This project demonstrates the application of simple linear regression for predic
 * Scikit-learn
 * Matplotlib
 
-## Installation
-1.  Clone the repository: `https://github.com/Karthikaa-A/House-Price-Prediction-Simple-Linear-Regression`
-2.  Obtain the dataset:`house-prices.csv`
-3.  Install the required libraries: `pip install pandas scikit-learn matplotlib numpy`
-4.  Open and run the Colab notebook: `House_Price_Prediction.ipynb` in Google Colab (colab.research.google.com).
-
 ## Usage
 
 The `House_Price_Prediction.ipynb` notebook contains the code to:
